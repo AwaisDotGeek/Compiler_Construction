@@ -1,0 +1,10 @@
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\bin\Debug\Lab4_Lexical_Analyzer.exe.config
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\bin\Debug\Lab4_Lexical_Analyzer.exe
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\bin\Debug\Lab4_Lexical_Analyzer.pdb
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.csproj.AssemblyReference.cache
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.Form1.resources
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.Properties.Resources.resources
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.csproj.GenerateResource.cache
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.csproj.CoreCompileInputs.cache
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.exe
+C:\Users\wasi1\source\repos\Lab4_Lexical_Analyzer\Lab4_Lexical_Analyzer\obj\Debug\Lab4_Lexical_Analyzer.pdb
