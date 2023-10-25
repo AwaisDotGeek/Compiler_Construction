@@ -1,0 +1,10 @@
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.exe.config
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.exe
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\bin\Debug\LL1_Parser.pdb
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.AssemblyReference.cache
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.Properties.Resources.resources
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.GenerateResource.cache
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.csproj.CoreCompileInputs.cache
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.exe
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.pdb
+C:\Users\wasi1\source\repos\LL1_Parser\LL1_Parser\obj\Debug\LL1_Parser.Form1.resources
